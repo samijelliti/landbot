@@ -1,0 +1,85 @@
+.body{
+    background-image: url("https://institut-mirabelle.fr/wp-content/uploads/2018/02/papier-rouge-rose.jpg");
+}
+.headerp{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 70px;
+    margin: 10px;
+}
+.logo{
+    font-size: 35px;
+    color: white;
+}
+.navmenue{
+    margin: 10px;
+}
+.b1{
+    font-size: 15px;
+    background-color: transparent;
+    border: none;
+    color: white;
+}
+.b2{
+    font-size: 15px;
+    width: 100px;
+    height: 25px;
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 15px;
+    color: white;
+}
+.main{
+    margin: 1% 30% 10% 35%;
+}
+.discussion-box{
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: white;
+    color: gray;
+}
+.discussion-box2{
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: white;
+    width: 250px;
+    color: gray;
+}
+.image img{
+    border-radius: 20px;    
+}
+.option-choice{
+    color: white;
+    font-size: 10px;
+    margin: 5px;
+}
+.user-action1 button{
+    display: flex;
+}
+.user-action1{    
+    width: 215px;
+    height: 50px;
+    background-color: rgb(255, 0, 157);
+    border: 3px solid rgb(214, 19, 84);
+    font-size: 15px;
+    color: white;
+
+}
+.user-action p{
+    color: white;
+    font-size: 12px;
+    margin: 5px;
+}
+.foottext{
+    display: flex;
+    width: 550px;
+    height: 80px;
+    border-radius: 5px;
+    background-color: white;
+    font-size: 15px;
+    margin-left: 1px;
+}
+.foottext img{
+    border-radius: 5px;
+}
